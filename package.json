@@ -2,12 +2,14 @@
   "name": "blackboard-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "made it for the theme like a blackboard",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "dark",
+    "blackboard"
   ],
-  "repository": "https://github.com/atom/blackboard-syntax",
+  "repository": "https://github.com/gurencrize/blackboard-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

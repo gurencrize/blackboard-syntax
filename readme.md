@@ -2,4 +2,4 @@
 I made it for the theme like a blackboard.
 
 image
-![Imgur](https://imgur.com/a/OBwjT)
+![Imgur](https://i.imgur.com/FYkhIus.png)
