@@ -35,7 +35,7 @@ atom-text-editor {
   .gutter .line-number.folded,
   .gutter .line-number:after,
   .fold-marker:after {
-    color: @comment-gray;
+    color:lighten(@comment-gray,10%);
   }
 
   .invisible {
@@ -55,7 +55,7 @@ atom-text-editor {
 // Syntax styles
 
 .syntax--comment {
-  color: @comment-gray;
+  color:lighten(@comment-gray,10%);
 }
 
 .syntax--keyword {
@@ -139,7 +139,7 @@ atom-text-editor {
 .syntax--punctuation {
   &.syntax--definition {
     &.syntax--comment {
-      color: @comment-gray;
+      lighten(@comment-gray,10%);
     }
 
     &.syntax--string,
